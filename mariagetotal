@@ -1,0 +1,13 @@
+int main() {
+    ifstream fichier("statistiques-des-jours-des-mariages.txt");
+    fichier.open("statistiques-des-jours-des-mariages.txt");
+    int t = 0;
+    string l;
+    int a;
+    int n;
+    while(fichier >> a and fichier >> l and fichier >> n) {
+        t = t + n; 
+        cout << t << endl;
+        fichier.close("statistiques-des-jours-des-mariages.txt");
+    }
+}
