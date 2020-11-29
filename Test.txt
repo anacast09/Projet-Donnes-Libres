@@ -1,0 +1,3 @@
+Plutôt que de créer une copie du repository qui est sur mon compte, normalement t'es censée pourvoir le modifier directement vu qu'il est en publique.
+Tu peux directement ajouter des fichiers au projet qui seront en attente de révision.
+(si je tappe ça là et que je t'envoie juste pas un message pour te le dire c'est aussi pour moi tester si je peux modifier le tiens directement)
